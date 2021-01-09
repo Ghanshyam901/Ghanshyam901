@@ -38,7 +38,7 @@
 
 [<img src="https://img.shields.io/badge/Linkedin-Ghanshyam-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/ghanshyam-ram-214195b6)
 <br>
-[<img src="https://img.shields.io/badge/Leetcode-Ghanshyam-blue?logo=linkedin&style=for-the-badge">](https://leetcode.com/Ghanshyam901/)
+[<img src="https://img.shields.io/badge/Leetcode-Ghanshyam-brown?logo=leetcode&style=for-the-badge">](https://leetcode.com/Ghanshyam901/)
 
 ___
 
