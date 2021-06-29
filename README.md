@@ -44,7 +44,7 @@
 
 [<img src="https://img.shields.io/badge/Linkedin-Ghanshyam-blue?logo=linkedin&style=for-the-badge">](https://www.linkedin.com/in/ghanshyam-ram-214195b6)
 <br>
-[<img src="https://img.shields.io/badge/Leetcode-Ghanshyam-brown?logo=leetcode&style=for-the-badge">](https://leetcode.com/Ghanshyam901/)
+[<img src="https://img.shields.io/badge/Leetcode-Ghanshyam-brown?logo=leetcode&style=for-the-badge">](https://leetcode.com/Ghanshyam9891/)
 
 ___
 
@@ -53,6 +53,6 @@ ___
 <a href="https://github.com/Ghanshyam901">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghanshyam901&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a></br>
-<a href="https://github.com/Ghanshyam9891/github-readme-stats">
+<a href="https://github.com/Ghanshyam901/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ghanshyam901&layout=compact&theme=blue-green" />
 </a>
