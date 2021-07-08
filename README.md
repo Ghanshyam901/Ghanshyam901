@@ -32,6 +32,8 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-Html-ffb400?style=for-the-badge&logo=html&logoColor=ffff3f)
 ![JAVA](https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![REACT](https://img.shields.io/badge/react%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![JAVA](https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 
 <h2 align="center">⚙️ Tools</h2>
