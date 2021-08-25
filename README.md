@@ -6,8 +6,8 @@
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 🌱 I’m currently learning **Web Development** and focusing on **Data Structures n Algorithms**.
 - 🔭 I’m currently working on some interesting projects like,
-  - [PORTFOLIO](https://ghanshyam901.github.io/portfolio/)
-  - [SAFFRON_FOOD](https://ghanshyam901.github.io/SAFFRON-FOOD/)
+  - [INSTAGRAM - CLONE ](https://github.com/Ghanshyam901/INSTAGRAM-CLONE)
+  - [MESSANGER CLONE](https://github.com/Ghanshyam901/messenger-clone)
   - [TO-DO-APP](https://ghanshyam901.github.io/TO-DO-APP/)
   - [INSTAGRAM-AUTO_LIKE](https://github.com/Ghanshyam901/Instagram_Automation)
   - [INSTAGRAM-AUTO_COMMENT](https://github.com/Ghanshyam901/Instagram-auto-comment)
